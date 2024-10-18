@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply h-[100vh];
+  background: linear-gradient(#0369a1,#1d4ed8)
+}
+
+/* Reset margins and paddings for all elements */
+* {
+  @apply m-0 p-0;
+}
