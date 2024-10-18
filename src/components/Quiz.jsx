@@ -79,7 +79,7 @@ function Quiz() {
     return (
 
         <div className=' container'>
-            <div className='parent w-[240px] lg:w-[500px] sm:w-[400px] m-auto mt-6 rounded-xl lg:mt-20 bg-white text-black py-4 px-4 flex flex-col gap-6 '>
+            <div className='parent  w-[600px]  m-auto mt-16 rounded-xl lg:mt-20 bg-white text-black py-4 px-4 flex flex-col gap-6 '>
                 <div className='quiz text-xl font-medium'>
                     <h2>Quiz-app </h2>
                     <hr className="border-t-2 border-pink-400" />
